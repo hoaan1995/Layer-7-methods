@@ -1,2 +1,3 @@
-# Condi-Panel
-Condi Layer 7 DDoS Panel - @zxcr9999
+# Layer 7 ddos methods
+Collecting by @zxcr9999
+Contact: @zxcr9999 (telegram)
